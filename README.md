@@ -7,5 +7,5 @@ Note that `FontAwesome` has been separated into three separate `otf` files now. 
 
 `\fasAllergies` `\farWindowRestore` `\fabNintendoSwitch`
 
-You can learn more about `FontAwesome` [here](fontawesome.com).
+You can learn more about `FontAwesome` [here](https://fontawesome.com/).
 
